@@ -42,3 +42,26 @@ a:hover {
 .contenedores {
     height: 400px;
 }
+
+#portafolio {
+    padding: 10px;
+}
+
+#skillSet {
+    padding: 10px;
+}
+
+.cardPortafolio {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+.containerCards {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 20px;
+}
